@@ -1,0 +1,16 @@
+{
+  "ProjectName": "Transacciones Seguras",
+  "apiBaseUrl": "http://localhost:5275/api/",
+  "Statuses": {
+    "Deleted": 1,
+    "Discarded": 2,
+    "Finished": 4,
+    "Draft": 8,
+    "Acceptance": 16,
+    "Paying": 32,
+    "Revision": 64,
+    "Sending": 128,
+    "Receiving": 256,
+    "Analysis": 512
+  }
+}
